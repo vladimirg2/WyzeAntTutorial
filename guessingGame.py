@@ -10,7 +10,7 @@ while n != "guess":
         print "guess is high"
         guess = int(raw_input("Enter an integer from 1 to 99: "))
     else:
-        print "you guessed it!!"
+        print "you guessed it!!!"
         break
     print
 
