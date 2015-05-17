@@ -1,0 +1,14 @@
+First, install Git.
+
+And second configure the necessary identification: 
+
+$ git config --global user.name "Your Name Comes Here"
+$ git config --global user.email you@yourdomain.example.com
+
+The above setting are global (per each machine you are on) but can also be per reporsitory with --local. 
+Local is actually the default behaviour. You can have custom identificatin for each repository you work in.
+
+
+
+
+               
